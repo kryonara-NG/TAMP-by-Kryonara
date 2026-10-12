@@ -3,7 +3,7 @@
 This repository contains the combined TAMP student-site and admin prototype with a React + Vite entry point and Vercel-ready build. The original HTML, CSS, and browser-side scripts are preserved under `public/site/` and `public/admin/`.
 
 ## Routes
-- `/` — React gateway that forwards to the student site.
+- `/` — React gateway that forwards to `/site/index.html`.
 - `/site/` — student and marketing site.
 - `/admin/` — admin prototype.
 
