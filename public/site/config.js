@@ -1,2 +1,2 @@
-// Front-end settings. Demo mode only; do not use for real payments or student records.
+// Front-end settings. A backend developer: set demo:false to hide all demo buttons.
 window.TAMP_CONFIG={demo:true,mode:'mock',apiBase:'/api/v1'};
